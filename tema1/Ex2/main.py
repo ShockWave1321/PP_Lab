@@ -34,7 +34,7 @@ def main():
         elif x == 4:
             n = int(input("Nr. litere cuvinte de filtrat: "))
             temp = new_str.split()
-            new_str = list(filter(lambda ele: len(ele) != n, temp))
+            new_str = list(filter(lambda ele: len(ele) != n or ele == "\n", temp))
             new_str = ' '.join(new_str)
         elif x == 5:
             new_str = letters(new_str)
