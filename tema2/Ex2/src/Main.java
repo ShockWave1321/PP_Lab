@@ -13,7 +13,7 @@ class Polyglot {
         Value data = polyglot.eval("R","library(lattice)\n" +
                 "x <-  c(" + r.readLine() + ")\n" +
                 "y <-  c(" + r.readLine() + ")\n" +
-                "model <- lm(x~y)\n" +
+                "model <- lm(y~x)\n" +
                 "png(file = '" + path + name + ".png')\n" +
                 "plot(x,y,col = '" + color + "')\n" +
                 "abline(model)\n" +
