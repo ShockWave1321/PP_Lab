@@ -1,0 +1,5 @@
+Apr  9 12:12:05 debian kernel: [    8.036879] bridge: filtering via arp/ip/ip6tables is no longer available by default. Update your scripts to load br_netfilter if you need this.
+Apr  9 12:12:05 debian kernel: [    8.039928] Bridge firewalling registered
+Apr  9 17:14:53 debian org.freedesktop.thumbnails.Cache1[8288]: Registered thumbnailer atril-thumbnailer -s %s %u %o
+Apr  9 17:14:53 debian dbus-daemon[1305]: [session uid=1000 pid=1305] Successfully activated service 'org.freedesktop.thumbnails.Cache1'
+Apr  9 17:14:53 debian org.freedesktop.thumbnails.Cache1[8288]: Registered thumbnailer /usr/bin/gdk-pixbuf-thumbnailer -s %s %u %o
