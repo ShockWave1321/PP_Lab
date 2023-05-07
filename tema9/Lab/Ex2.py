@@ -21,7 +21,7 @@ def line_num(paths):
             yield path, line_count
 
 
-def display_results(lines):
+def Print(lines):
     for path, line_count in lines:
         print(f"{path}: {line_count}")
 
@@ -32,4 +32,4 @@ if __name__ == '__main__':
     files = file_filter(file_paths)
     txt_files = text_filter(files)
     lines_path_num = line_num(txt_files)
-    display_results(lines_path_num)
+    Print(lines_path_num)
