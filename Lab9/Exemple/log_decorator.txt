@@ -1,0 +1,16 @@
+[1682336291.570552]: function 'factorial' returned 6
+[1682336292.572205]: function 'factorial' returned 24
+[1682336293.573071]: function 'factorial' returned 120
+[1682336294.574614]: function 'factorial' returned 720
+[1682336295.576195]: function 'factorial' returned 5040
+[1682336296.577675]: function 'factorial' returned 40320
+[1682336297.579141]: function 'factorial' returned 362880
+[1682336298.580607]: function 'factorial' returned 3628800
+[1682336313.927222]: function 'wrapper' returned 6
+[1682336314.928072]: function 'wrapper' returned 24
+[1682336315.929266]: function 'wrapper' returned 120
+[1682336316.930745]: function 'wrapper' returned 720
+[1682336317.932225]: function 'wrapper' returned 5040
+[1682336318.933714]: function 'wrapper' returned 40320
+[1682336319.935178]: function 'wrapper' returned 362880
+[1682336320.936651]: function 'wrapper' returned 3628800
