@@ -1,7 +1,6 @@
-package P4
+package P1.Lab
 
 import kotlin.properties.Delegates
-import P1.isPrime
 
 var intNumber:Int by Delegates.vetoable(0)
 {

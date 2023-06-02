@@ -1,3 +1,5 @@
+package P1.Lab
+
 fun main()
 {
     //var input = readln()

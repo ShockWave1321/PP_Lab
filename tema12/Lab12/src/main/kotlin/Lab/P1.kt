@@ -1,4 +1,4 @@
-package P1
+package P1.Lab
 
 fun Int.isPrime() : Boolean {
     if(this <= 1 || this % 2 == 0)

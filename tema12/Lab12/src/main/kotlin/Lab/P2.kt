@@ -1,4 +1,4 @@
-package P2
+package P1.Lab
 
 import java.text.DateFormat
 import java.text.SimpleDateFormat

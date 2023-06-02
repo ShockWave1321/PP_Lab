@@ -1,3 +1,5 @@
+package P1.Lab
+
 fun main()
 {
     val input = readln()

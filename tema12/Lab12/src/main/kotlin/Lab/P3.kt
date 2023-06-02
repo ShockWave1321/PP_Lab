@@ -1,4 +1,4 @@
-package P3
+package P1.Lab
 
 fun main()
 {
